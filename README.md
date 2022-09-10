@@ -5,7 +5,8 @@
 
 
 
-## Hi, I'm Basit! 👋 I am a student. Here are some of my contributions on GitHub to help you guys out . I hope they help you to the very best.
+## Hi, I'm Basit! 👋 
+I am a student. Here are some of my contributions on GitHub to help you guys out . I hope they help you to the very best.
 
 
 ## 🔗 Links
