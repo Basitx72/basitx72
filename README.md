@@ -4,7 +4,7 @@
 
 
 ### Hi, I'm Basit!  
-### I am a computer science student. Here are some of my contributions on GitHub to help you guys out . I hope they help you to the very best.
+### I am a computer science student. Here are some of my GitHub contributions to help everyone out. I hope they help you achieve your goals.
 
 
 
