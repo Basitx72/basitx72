@@ -1,10 +1,10 @@
-# About 
+# About me
 
 
 
 
-### Hi, I'm Basit!  
-### I am a computer science student. Here are some of my GitHub contributions to help everyone out. I hope they help you achieve your goals.
+### Hi👋  
+### I'm Basit.I am a computer science student. Here are some of my GitHub contributions to help everyone out. I hope they help you achieve your goals.
 
 
 
