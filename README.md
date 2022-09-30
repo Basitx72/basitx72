@@ -13,7 +13,7 @@
 
 # Other Links 
 
-[![In](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/basit-xd/)
+[![In](https://www.google.com/search?q=linkedin+logo+in+&tbm=isch&ved=2ahUKEwjDt4_61736AhX3hM4BHTXXA_cQ2-cCegQIABAA&oq=linkedin+logo+in+&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAELEDEEM6BAgAEENQqANYhwpgmSBoAHAAeACAAfEBiAHcCJIBAzItNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=D343Y4P0DfeJur4Pta6PuA8&bih=913&biw=1279#imgrc=t9Mv3SStfZfANM)](https://www.linkedin.com/in/basit-xd/)
 
 
 
