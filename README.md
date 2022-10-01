@@ -1,8 +1,8 @@
 
 <h3 align="left">About me:</h3>
 <h2 align="center">Hi 👋, I'm Basit</h2>
-<p align="right">
-  <img src="http://readme-typing-svg.herokuapp.com?color=2CD1F7&lines=Undergraduate+BS+CS+Student"></a>
+<p align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?color=2CD1F7&lines=++++++ + +Undergraduate+BS+CS+Student"></a>
 </p> 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanjimreza&label=Profile%20views&color=0e75b6&style=flat" alt="tanjimreza" /> </p>
